@@ -1,0 +1,19 @@
+Training notes - week 1 Python is installed in two places: the laptop
+and the Ubuntu VM. Use VS Code with the Python extension. Remember to
+save the file before running it.
+
+Python is a beginner-friendly programming language. Practise variables,
+data types, and operators every day. Use input to read information from
+the user. Convert input values when numeric calculations are required.
+Strings can be cleaned with strip and split. Lists store multiple values
+in a single variable. Dictionaries store information as key-value pairs.
+Functions help organize code into reusable blocks. Use loops to repeat a
+set of instructions. The for loop is useful for iterating over
+sequences. The while loop runs while its condition remains true. Learn
+how to handle errors with try and except. Files can be opened in read,
+write, and append modes. The with statement closes a file automatically.
+Use enumerate to get an item and its position. The split method
+separates text into smaller parts. The strip method removes whitespace
+from both ends. Linux commands help manage files and directories.
+Practise Git commands to track changes in projects. Review your notes
+and test each example yourself.
