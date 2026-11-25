@@ -1,0 +1,4 @@
+Started the course
+Finished file exercises
+Reviewed CSV handling
+Added one more entry
